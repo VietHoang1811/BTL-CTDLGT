@@ -9,9 +9,9 @@
 
 ### Phân việc của từng người:
 
-#### Người thứ nhất:
-- **Việc 1**: Mô tả công việc 1 → **File**: tên file
-- **Việc 2**: Mô tả công việc 2 → **File**: tên file
+#### Nguyễn Quang Trung:
+- **Việc 1**: Chia file thành các module, làm và sửa file linklisted.js, node.js  → **File**: linklisted.js
+- **Việc 2**: Tạo node.js và sửa tất cả các file sao cho chạy đượ → **File**: node.js
 
 #### Đỗ Nguyễn Việt Hoàng
 - **Việc 1**: Chia file thành các module, làm và sửa file StudentManager.js, Student.js   → **File**: StudentManager.js
