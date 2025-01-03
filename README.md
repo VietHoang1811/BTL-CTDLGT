@@ -13,8 +13,8 @@
 - **Việc 1**: Mô tả công việc 1 → **File**: tên file
 - **Việc 2**: Mô tả công việc 2 → **File**: tên file
 
-#### Người thứ hai:
-- **Việc 1**: Mô tả công việc 1 → **File**: tên file
+#### Đỗ Nguyễn Việt Hoàng
+- **Việc 1**: Chia file thành các module, làm và sửa file StudentManager.js và Student.js → **File**: StudentManager.js, Student.js
 - **Việc 2**: Mô tả công việc 2 → **File**: tên file
 
 #### Người thứ ba:
