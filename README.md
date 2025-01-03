@@ -1,9 +1,9 @@
 # Nhóm 13: Đề 2
 
 ### Danh sách thành viên:
-1. **Đỗ Nguyễn Việt Hoàng** - MSSV:
+1. **Đỗ Nguyễn Việt Hoàng** - MSSV:20231590
 2. **Nguyễn Quang Trung** - MSSV:20231645
-3. **Lê Anh Đức** - MSSV: xxxxxx
+3. **Lê Anh Đức** - MSSV: 20231575
 
 ---
 
