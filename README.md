@@ -14,8 +14,8 @@
 - **Việc 2**: Tạo Node.js và sửa tất cả các file sao cho chạy đượ → **File**: Node.js
 
 #### Đỗ Nguyễn Việt Hoàng
-- **Việc 1**: Chia file thành các module, làm và sửa file StudentManager.js, Student.js   → **File**: StudentManager.js
-- **Việc 2**: Tạo Student.js và sửa tất cả các file sao cho chạy được → **File**: Student.js
+- **Việc 1**: Bảng băm, chia file thành các module, làm và sửa file StudentManager.js, Student.js   → **File**: StudentManager.js, HashTable.js
+- **Việc 2**: Tạo Student.js và sửa tất cả các file sao cho chạy được → **File**: Student.js, main.js
 
 #### Người thứ ba:
 - **Việc 1**: Mô tả công việc 1 → **File**: tên file
