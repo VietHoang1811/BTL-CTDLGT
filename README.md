@@ -17,9 +17,9 @@
 - **Việc 1**: Bảng băm, chia file thành các module, làm và sửa file StudentManager.js, Student.js   → **File**: StudentManager.js, HashTable.js
 - **Việc 2**: Tạo Student.js và sửa tất cả các file sao cho chạy được → **File**: Student.js, main.js
 
-#### Người thứ ba:
-- **Việc 1**: Mô tả công việc 1 → **File**: tên file
-- **Việc 2**: Mô tả công việc 2 → **File**: tên file
+#### Lê Anh Đức
+- **Việc 1**: Chia file thành các module, làm và sửa file Sreach.js  → **File**: Sreach.js
+- **Việc 2**: Tạo Node.js và sửa tất cả các file sao cho chạy được → **File**: Node.js
 
 ---
 
