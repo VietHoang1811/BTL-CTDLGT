@@ -14,7 +14,7 @@
 - **Việc 2**: Mô tả công việc 2 → **File**: tên file
 
 #### Đỗ Nguyễn Việt Hoàng
-- **Việc 1**: Chia file thành các module, làm và sửa file StudentManager.js và Student.js → **File**: StudentManager.js, Student.js
+- **Việc 1**: Chia file thành các module, làm và sửa file StudentManager.js, Student.js và sửa tất cả các file sao cho chạy được  → **File**: StudentManager.js, Student.js
 - **Việc 2**: Mô tả công việc 2 → **File**: tên file
 
 #### Người thứ ba:
